@@ -223,15 +223,15 @@ Mathematics      ███████████████████░  S
 <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kentarotaro&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Kentaro's Streak"/>
 
 <!-- Languages & Activity -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentarotaro&layout=compact&hide_border=true&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentarotaro&layout=compact&hide_border=true&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&langs_count=6&hide=html,css" alt="Most Used Languages"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kentarotaro&hide_border=true&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="Coding Time"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kentarotaro&show_icons=true&hide_border=true&title_color=FF6B6B&icon_color=F8D866&text_color=c9d1d9&bg_color=0d1117&hide=contribs&custom_title=Code%20Statistics" alt="Code Stats"/>
 
 </div>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kentarotaro&custom_title=Kentaro's%20Contribution%20Graph&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=FF6B6B" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kentarotaro&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <!-- Trophies -->
@@ -424,13 +424,7 @@ Feel free to reach out if you want to work together! 🚀
 
 ### 🐍 Contribution Activity
 
-<!-- Note: This requires GitHub Actions setup -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-*Snake animation will appear once GitHub Actions is configured*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentarotaro&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
