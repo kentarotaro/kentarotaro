@@ -32,7 +32,7 @@
 <details open>
 <summary><h2>🚀 About Me</h2></summary>
 
-<img align="right" width="400" alt="Coding" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist%20Light%20Skin%20Tone.png">
+<img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
 const kentaro = {
@@ -197,7 +197,7 @@ Game Ludo multiplayer lokal yang dibangun dengan pure C++. Implementasi game log
 
 ### 🎨 More Projects Coming Soon...
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<br>
 
 </div>
 
@@ -304,10 +304,12 @@ skills = {
   <img src="https://github-profile-trophy.vercel.app/?username=kentarotaro&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
 </div>
 
-<!-- 3D Contribution -->
+<!-- 3D Contribution - Optional, comment if not setup -->
+<!-- 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
+-->
 
 </details>
 
@@ -341,22 +343,22 @@ timeline
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60px"/>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60px"/>
 <br><strong>Competitions</strong>
 <br>Kaggle & Hackathons
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60px"/>
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="60px"/>
 <br><strong>Education</strong>
 <br>CS @ UGM
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60px"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60px"/>
 <br><strong>Projects</strong>
 <br>10+ ML Projects
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="60px"/>
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="60px"/>
 <br><strong>Learning</strong>
 <br>Always Growing
 </td>
@@ -409,17 +411,17 @@ timeline
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="80px"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80px"/>
 <br><strong>Competitive Programming</strong>
 <br><sub>LeetCode | Codeforces</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" width="80px"/>
+<img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="80px"/>
 <br><strong>Chess</strong>
 <br><sub>Chess.com Enthusiast</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80px"/>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80px"/>
 <br><strong>Reading</strong>
 <br><sub>ML Papers & Manga</sub>
 </td>
@@ -539,13 +541,16 @@ timeline
 
 <div align="center">
 
-### 🐍 Watch my contribution graph get eaten by the snake 🐍
+### 🐍 Contribution Activity
 
+<!-- Snake animation will appear here once you set it up -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg">
 </picture>
+
+*⚠️ Note: Snake animation requires GitHub Actions setup. See instructions below.*
 
 </div>
 
@@ -557,6 +562,6 @@ timeline
 
 ### 🔥 Show some ❤️ by starring some of the repositories!
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 </div>
