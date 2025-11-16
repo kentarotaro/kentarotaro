@@ -328,16 +328,16 @@ Help community
 ### 💬 Let's Connect and Collaborate!
 
 <p>
-<a href="mailto:your.email@gmail.com">
+<a href="kentarotarochan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/aulia-kemal-syah-454942369/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/kentarotaro">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://kaggle.com/kentarotaro">
+<a href="https://kaggle.com/kentarokujo">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 </p>
