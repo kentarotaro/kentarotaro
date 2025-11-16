@@ -364,67 +364,13 @@ Help community
 
 <div align="center">
 
+### 🐍 My GitHub Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" href="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" href="dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
 </picture>
-
-<br>
-
-<details>
-<summary><b>🔧 How to Setup Snake Animation</b></summary>
-
-<br>
-
-**Step 1:** Create `.github/workflows/snake.yml` in your profile repository
-
-**Step 2:** Add this code to `snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *" # every 6 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Commit, push, and enable GitHub Actions in your repository settings!
-
-**Step 4:** The snake will appear after the first workflow run ✨
-
-</details>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
 
 ### 💭 Random Dev Quote
 
