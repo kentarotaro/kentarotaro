@@ -284,10 +284,10 @@ graph LR
 
 | 🎯 Milestone | 📝 Description | ✅ Status |
 |:---|:---|:---:|
-| **Accepted to UGM** | Computer Science Program | ✅ 2023 |
-| **First ML Project** | Mushroom Classification | ✅ 2024 |
-| **OmahTI Data Royale** | Kaggle Competition | ✅ 2024 |
-| **OmahTI Kubik** | C++ Game Development | ✅ 2024 |
+| **Accepted to UGM** | Computer Science Program | ✅ 2025 |
+| **First ML Project** | Mushroom Classification | ✅ 2025 |
+| **OmahTI Data Royale** | Kaggle Competition | ✅ 2025 |
+| **OmahTI Kubik** | C++ Game Development | ✅ 2025 |
 
 ### 🎯 Goals for 2025
 
