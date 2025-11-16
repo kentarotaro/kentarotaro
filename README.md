@@ -1,4 +1,4 @@
-### Hi there! I'm Kenta 👋
+### Hi there! I'm Kentaro 👋
 
 I am a Computer Science student at Gadjah Mada University with a strong passion for **Data Science** and **Mathemathics**.
 
