@@ -365,14 +365,13 @@ Help community
 <div align="center">
 
 ### 🐍 My GitHub Contribution Snake
-
 <picture>
   <source 
     media="(prefers-color-scheme: dark)"
-    href="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake-dark.svg" />
   <source 
     media="(prefers-color-scheme: light)"
-    href="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
   <img 
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
