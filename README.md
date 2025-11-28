@@ -422,7 +422,6 @@ Help community
 ---
 
 <br>
-🐍 Contribution Snake
 <div align="center">
 🐍 My GitHub Contribution Snake
 <picture>
