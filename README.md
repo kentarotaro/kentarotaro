@@ -71,9 +71,9 @@ me.say_hi()
 ### 🎯 What I'm Currently Up To
 
 - 📚 **Learning:** Machine Learning fundamentals & Backend Development with Node.js
-- 🏆 **Competing:** Active participant in OmahTI competitions
+- 🏆 **Competing:** Active participant in competitions
 - 💻 **Building:** REST APIs and Data Science projects
-- 🧮 **Studying:** Advanced Mathematics & Statistics
+- 🧮 **Studying:** Learn Mathematics & Statistics
 - 📖 **Reading:** ML research papers and backend architecture best practices
 
 <br>
