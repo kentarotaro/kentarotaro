@@ -421,6 +421,7 @@ Help community
   <img 
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
+<br>
 </picture>
 <br>
 💭 Random Dev Quote
@@ -433,4 +434,4 @@ Help community
 <br>
 <br>
 🌟 Always Learning, Always Growing 🌱
-<img src="[https://media.giphy.com/me](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cng0aG1pN2xzb2pwbDVyZGR3a3lyd290ZGJiN2RxYXVka253dmRtaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/amrNGnZUeWhZC/giphy.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
