@@ -432,8 +432,9 @@ Help community
 </picture>
 
 <br>
----
+
 <br>
+---
 💭 Random Dev Quote
 <br>
 <br>
@@ -443,7 +444,7 @@ Help community
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
 <br>
-
+<br>
 🌟 Always Learning, Always Growing 🌱
 <br>
 <br>
