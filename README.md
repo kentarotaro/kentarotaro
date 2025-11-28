@@ -1,3 +1,73 @@
+<div align="center">
+
+<!-- Animated Header with Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=280&section=header&text=Hi%20There!%20I'm%20Kentaro%20👋&fontSize=60&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Data%20Science%20Enthusiast%20|%20Math%20Lover&descAlign=50&descAlignY=55&animation=fadeIn"/>
+
+</div>
+
+<br>
+
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BACE2&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;I'm+passionate+about+Data+Science+%F0%9F%93%8A;Learning+Machine+Learning+%26+AI+%F0%9F%A4%96;Mathematics+is+my+superpower!+%F0%9F%A7%AE;Let's+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<br>
+
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Student-Gadjah_Mada_University-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📊_Focus-Data_Science-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧮_Love-Mathematics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀_Status-Always_Learning-red?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kentarotaro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/kentarotaro?label=Followers&style=flat-square&color=blue&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/kentarotaro?label=Total%20Stars&style=flat-square&color=yellow&logo=github" alt="stars"/>
+</p>
+
+<br>
+
+---
+
+<br>
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<br>
+
+### Hey there! 👋
+
+I'm **Aulia Kemal Syah**, a passionate **Computer Science student** at **Gadjah Mada University** 🎓
+
+🔹 **Currently Learning:** Machine Learning, Data Analysis, and Statistics  
+🔹 **Passionate About:** Data Science, Mathematics, and Problem Solving  
+🔹 **Fun Fact:** I love turning complex data into simple insights! 📊  
+🔹 **2025 Goal:** Master ML fundamentals and compete more on Kaggle 🏆
+
+<br>
+
+```python
+class Kentaro:
+    def __init__(self):
+        self.name = "Aulia Kemal Syah"
+        self.role = "CS Student & Aspiring Data Scientist"
+        self.location = "Yogyakarta, Indonesia 🇮🇩"
+        self.education = "Gadjah Mada University"
+        self.languages = ["Python", "C++"]
+        self.interests = ["Data Science", "Mathematics", "ML"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something great together!")
+
+me = Kentaro()
+me.say_hi()
+```
+
 <br>
 
 ### 🎯 What I'm Currently Up To
