@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtxM29nM25xY3p2dTJxcjhrMnN2OGpzMHRxZmk5c3k5bXE2MHp3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/giphy.gif">
+<img align="right" alt="Coding Animation" width="400" src="[haiii](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtxM29nM25xY3p2dTJxcjhrMnN2OGpzMHRxZmk5c3k5bXE2MHp3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/giphy.gif)">
 
 <br>
 
