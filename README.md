@@ -346,33 +346,37 @@ graph LR
     style J fill:#FFA500,stroke:#FFA500,color:#000
     style K fill:#00D9FF,stroke:#00D9FF,color:#000
 ```
+---
 🟦 Completed | 🟧 In Progress | ⬛ Planned
 </div>
 <br>
-
+---
 🏆 Milestones Achieved
 <div align="center">
 AchievementDescriptionYear🎓 Admitted to UGMComputer Science Program2025🏠 Airbnb PredictionOmahTI Regression Competition2025🍽️ Smart Menu APIGDGOC Backend Development2025🍄 Data RoyaleOmahTI Kaggle Competition2025🎮 Kubik CompetitionC++ Game Development2025🤖 First ML ModelMushroom Classification2025
 </div>
 <br>
-
+---
 🎯 2025 Goals
 <table align="center">
 <tr>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDI2YnJvYm5jbDMybXl2YThzMHhtcTFpYTA5MWJkY3o0cnd3a2wwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif" width="100px"/><br>
+  
 <b>📚 Master ML & Backend</b><br>
 Complete fundamentals<br>
 Build 10+ projects
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHZraGh0am4zdjZscXdmNHkxMnN2MWRjODBrZTBsc3Zxamx1aGJ2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYEpIngcmXlHetDqz/giphy.gif" width="100px"/><br>
+  
 <b>🏆 Compete & Excel</b><br>
 Join more competitions<br>
 Improve technical skills
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmF5bnJvaTJndmV0cmQ2Z2FrdmVlczBkbHVuNjE5bGdlaDY3cWlsdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" width="80px"/><br>
+  
 <b>💻 Contribute</b><br>
 Open source projects<br>
 Help community
@@ -382,6 +386,7 @@ Help community
 <br>
 
 <br>
+---
 🌐 Connect With Me
 <div align="center">
 💬 Let's Connect and Collaborate!
@@ -407,6 +412,8 @@ Help community
 </div>
 <br>
 
+---
+
 <br>
 🐍 Contribution Snake
 <div align="center">
@@ -424,6 +431,7 @@ Help community
 <br>
 </picture>
 <br>
+---
 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
 </div>
@@ -434,5 +442,6 @@ Help community
 <br>
 <br>
 🌟 Always Learning, Always Growing 🌱
+<br>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
