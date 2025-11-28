@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=280&section=header&text=Hi%20There!%20I'm%20Kentaro%20👋&fontSize=60&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Data%20Science%20Enthusiast%20|%20Math%20Lover&descAlign=50&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=280&section=header&text=Hi%20There!%20I'm%20Aulia%20Kemal%20Syah%20👋&fontSize=60&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Data%20Science%20Enthusiast%20|%20Math%20Lover&descAlign=50&descAlignY=55&animation=fadeIn"/>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3diYTllajg2M3FpZ2Z0eXhzbnA4YXp2NzU3YTZybGU5ZHQ3YzBhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/giphy.gif">
 
 <br>
 
@@ -348,28 +348,30 @@ graph LR
 🟦 Completed | 🟧 In Progress | ⬛ Planned
 </div>
 <br>
+
 🏆 Milestones Achieved
 <div align="center">
 AchievementDescriptionYear🎓 Admitted to UGMComputer Science Program2025🏠 Airbnb PredictionOmahTI Regression Competition2025🍽️ Smart Menu APIGDGOC Backend Development2025🍄 Data RoyaleOmahTI Kaggle Competition2025🎮 Kubik CompetitionC++ Game Development2025🤖 First ML ModelMushroom Classification2025
 </div>
 <br>
+
 🎯 2025 Goals
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="80px"/><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDI2YnJvYm5jbDMybXl2YThzMHhtcTFpYTA5MWJkY3o0cnd3a2wwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif" width="80px"/><br>
 <b>📚 Master ML & Backend</b><br>
 Complete fundamentals<br>
 Build 10+ projects
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="80px"/><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHZraGh0am4zdjZscXdmNHkxMnN2MWRjODBrZTBsc3Zxamx1aGJ2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYEpIngcmXlHetDqz/giphy.gif" width="80px"/><br>
 <b>🏆 Compete & Excel</b><br>
 Join more competitions<br>
 Improve technical skills
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80px"/><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmF5bnJvaTJndmV0cmQ2Z2FrdmVlczBkbHVuNjE5bGdlaDY3cWlsdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" width="80px"/><br>
 <b>💻 Contribute</b><br>
 Open source projects<br>
 Help community
@@ -419,14 +421,15 @@ Help community
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
 </picture>
+<br>
 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
 </div>
-<br>
 
 <br>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
 <br>
+<br>
 🌟 Always Learning, Always Growing 🌱
-<img src="https://media.giphy.com/me
+<img src="[https://media.giphy.com/me](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cng0aG1pN2xzb2pwbDVyZGR3a3lyd290ZGJiN2RxYXVka253dmRtaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/amrNGnZUeWhZC/giphy.gif"/>
