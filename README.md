@@ -349,7 +349,7 @@ graph LR
 <br>
 
 🏆 Milestones Achieved
-<div align="center">
+<div>
 - AchievementDescriptionYear🎓 
 - Admitted to UGMComputer Science Program2025🏠 
 - Airbnb PredictionOmahTI Regression Competition2025🍽️ 
