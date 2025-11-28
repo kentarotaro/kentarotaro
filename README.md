@@ -359,13 +359,13 @@ AchievementDescriptionYear🎓 Admitted to UGMComputer Science Program2025🏠 A
 🎯 2025 Goals
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="40%">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDI2YnJvYm5jbDMybXl2YThzMHhtcTFpYTA5MWJkY3o0cnd3a2wwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif" width="80px"/><br>
 <b>📚 Master ML & Backend</b><br>
 Complete fundamentals<br>
 Build 10+ projects
 </td>
-<td align="center" width="33%">
+<td align="center" width="40%">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHZraGh0am4zdjZscXdmNHkxMnN2MWRjODBrZTBsc3Zxamx1aGJ2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYEpIngcmXlHetDqz/giphy.gif" width="80px"/><br>
 <b>🏆 Compete & Excel</b><br>
 Join more competitions<br>
