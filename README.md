@@ -430,9 +430,12 @@ Help community
     src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
 <br>
 </picture>
-<br>
 ---
+<br>
+
 💭 Random Dev Quote
+<br>
+<br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
 </div>
 
