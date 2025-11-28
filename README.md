@@ -302,7 +302,7 @@ A fully functional multiplayer Ludo game built with pure C++. Strengthened my OO
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kentarotaro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="95%"/>
 
 </div>
 
