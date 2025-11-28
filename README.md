@@ -434,7 +434,6 @@ Help community
 <br>
 
 <br>
----
 💭 Random Dev Quote
 <br>
 <br>
