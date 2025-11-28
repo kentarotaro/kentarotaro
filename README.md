@@ -430,20 +430,20 @@ Help community
     src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
 <br>
 </picture>
+
+<br>
 ---
 <br>
-
 💭 Random Dev Quote
 <br>
 <br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
 </div>
 
-<br>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
 <br>
-<br>
+
 🌟 Always Learning, Always Growing 🌱
 <br>
 <br>
