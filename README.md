@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/8JCIWBz8oRRLZmZhNn/giphy.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400">
 <br>
 
 <br>
