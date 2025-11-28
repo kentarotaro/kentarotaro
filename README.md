@@ -343,11 +343,6 @@ graph LR
     style J fill:#FFA500,stroke:#FFA500,color:#000
     style K fill:#00D9FF,stroke:#00D9FF,color:#000
 ```
-<br>
-
----
-
-<br>
 
 🟦 Completed | 🟧 In Progress | ⬛ Planned
 </div>
@@ -438,6 +433,8 @@ Help community
 </picture>
 
 <br>
+
+---
 
 <br>
 💭 Random Dev Quote
