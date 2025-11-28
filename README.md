@@ -350,7 +350,13 @@ graph LR
 
 🏆 Milestones Achieved
 <div align="center">
-AchievementDescriptionYear🎓 Admitted to UGMComputer Science Program2025🏠 Airbnb PredictionOmahTI Regression Competition2025🍽️ Smart Menu APIGDGOC Backend Development2025🍄 Data RoyaleOmahTI Kaggle Competition2025🎮 Kubik CompetitionC++ Game Development2025🤖 First ML ModelMushroom Classification2025
+- AchievementDescriptionYear🎓 
+- Admitted to UGMComputer Science Program2025🏠 
+- Airbnb PredictionOmahTI Regression Competition2025🍽️ 
+- Smart Menu APIGDGOC Backend Development2025🍄 
+- Data RoyaleOmahTI Kaggle Competition2025🎮
+- Kubik CompetitionC++ Game Development2025🤖 
+- First ML ModelMushroom Classification2025
 </div>
 <br>
 
