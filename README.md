@@ -1,82 +1,12 @@
-<div align="center">
-
-<!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=280&section=header&text=Hi%20There!%20I'm%20Kentaro%20👋&fontSize=60&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Data%20Science%20Enthusiast%20|%20Math%20Lover&descAlign=50&descAlignY=55&animation=fadeIn"/>
-
-</div>
-
-<br>
-
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BACE2&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;I'm+passionate+about+Data+Science+%F0%9F%93%8A;Learning+Machine+Learning+%26+AI+%F0%9F%A4%96;Mathematics+is+my+superpower!+%F0%9F%A7%AE;Let's+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-<br>
-
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_Student-Gadjah_Mada_University-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊_Focus-Data_Science-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧮_Love-Mathematics-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀_Status-Always_Learning-red?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kentarotaro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/kentarotaro?label=Followers&style=flat-square&color=blue&logo=github" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/kentarotaro?label=Total%20Stars&style=flat-square&color=yellow&logo=github" alt="stars"/>
-</p>
-
-<br>
-
----
-
-<br>
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<br>
-
-### Hey there! 👋
-
-I'm **Kentaro**, a passionate **Computer Science student** at **Gadjah Mada University** 🎓
-
-🔹 **Currently Learning:** Machine Learning, Data Analysis, and Statistics  
-🔹 **Passionate About:** Data Science, Mathematics, and Problem Solving  
-🔹 **Fun Fact:** I love turning complex data into simple insights! 📊  
-🔹 **2025 Goal:** Master ML fundamentals and compete more on Kaggle 🏆
-
-<br>
-
-```python
-class Kentaro:
-    def __init__(self):
-        self.name = "Kentaro"
-        self.role = "CS Student & Aspiring Data Scientist"
-        self.location = "Yogyakarta, Indonesia 🇮🇩"
-        self.education = "Gadjah Mada University"
-        self.languages = ["Python", "C++"]
-        self.interests = ["Data Science", "Mathematics", "ML"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something great together!")
-
-me = Kentaro()
-me.say_hi()
-```
-
 <br>
 
 ### 🎯 What I'm Currently Up To
 
-- 📚 **Learning:** Machine Learning fundamentals with Scikit-learn
-- 🏆 **Competing:** Active participant in Kaggle competitions
-- 💻 **Building:** Data analysis projects with Python & Pandas
+- 📚 **Learning:** Machine Learning fundamentals & Backend Development with Node.js
+- 🏆 **Competing:** Active participant in OmahTI competitions
+- 💻 **Building:** REST APIs and Data Science projects
 - 🧮 **Studying:** Advanced Mathematics & Statistics
-- 📖 **Reading:** ML research papers and documentation
+- 📖 **Reading:** ML research papers and backend architecture best practices
 
 <br>
 
@@ -89,6 +19,64 @@ me.say_hi()
 <div align="center">
 
 <table>
+<tr>
+<td width="50%" align="center">
+
+### 🏠 Airbnb Price Prediction
+
+<a href="https://github.com/kentarotaro/airbnb-price-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kentarotaro&repo=airbnb-price-prediction&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+<br>
+
+**🎯 OmahTI Regression Competition**
+
+Advanced ensemble model untuk prediksi harga Airbnb dengan MAPE optimization. Menggunakan stacking ensemble (LightGBM, XGBoost, CatBoost) dengan 190+ engineered features.
+
+**📚 What I Learned:**
+- Advanced feature engineering & NLP
+- Stratified CV & ensemble methods
+- MAPE optimization techniques
+- Handling skewed distributions
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🍽️ Smart Menu Catalog API
+
+<a href="https://github.com/kentarotaro/gdgoc-menu-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kentarotaro&repo=gdgoc-menu-api&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+<br>
+
+**🚀 GDGOC Backend Project**
+
+Production-ready REST API untuk manajemen menu restoran dengan integrasi Google Gemini AI. Fitur auto-description, calorie estimation, dan smart pricing.
+
+**📚 What I Learned:**
+- REST API design with Express.js
+- PostgreSQL & Supabase integration
+- AI integration (Google Gemini)
+- Rate limiting & data sanitization
+
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" align="center">
 
@@ -162,7 +150,7 @@ A fully functional multiplayer Ludo game built with pure C++. Strengthened my OO
 
 ### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs&theme=dark" />
 
 <br><br>
 
@@ -171,16 +159,28 @@ A fully functional multiplayer Ludo game built with pure C++. Strengthened my OO
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <br>
 
+### 🔧 Backend & Database
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<br>
+
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel&theme=dark" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
@@ -194,8 +194,10 @@ A fully functional multiplayer Ludo game built with pure C++. Strengthened my OO
 |:---:|:---:|:---:|
 | **Python** | ████████████████████ | Advanced ⭐⭐⭐⭐ |
 | **C++** | ████████████████░░░░ | Intermediate ⭐⭐⭐ |
+| **JavaScript/Node.js** | ███████████████░░░░░ | Intermediate ⭐⭐⭐ |
 | **Pandas & NumPy** | ███████████████░░░░░ | Intermediate ⭐⭐⭐ |
-| **Machine Learning** | ████████████░░░░░░░░ | Learning ⭐⭐ |
+| **Machine Learning** | ██████████████░░░░░░ | Learning ⭐⭐ |
+| **Backend Development** | ███████████████░░░░░ | Intermediate ⭐⭐⭐ |
 | **Data Analysis** | ██████████████░░░░░░ | Learning ⭐⭐ |
 | **Mathematics** | ███████████████████░ | Strong ⭐⭐⭐⭐ |
 
@@ -244,7 +246,6 @@ A fully functional multiplayer Ludo game built with pure C++. Strengthened my OO
 <div align="center">
 
 ### 📈 My Learning Path
-
 ```mermaid
 %%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
 graph LR
@@ -252,12 +253,15 @@ graph LR
     B --> C[Machine Learning]
     C --> D[Deep Learning]
     
-    A --> E[C++ Fundamentals]
-    E --> F[OOP & DSA]
-    F --> G[Competitive Coding]
+    A --> E[Backend Development]
+    E --> F[REST APIs]
+    F --> G[Microservices]
     
-    B --> H[Mathematics & Stats]
-    H --> C
+    H[C++ Fundamentals] --> I[OOP & DSA]
+    I --> J[Competitive Coding]
+    
+    B --> K[Mathematics & Stats]
+    K --> C
     
     style A fill:#00D9FF,stroke:#00D9FF,color:#000
     style B fill:#00D9FF,stroke:#00D9FF,color:#000
@@ -267,44 +271,32 @@ graph LR
     style F fill:#00D9FF,stroke:#00D9FF,color:#000
     style G fill:#FFA500,stroke:#FFA500,color:#000
     style H fill:#00D9FF,stroke:#00D9FF,color:#000
+    style I fill:#00D9FF,stroke:#00D9FF,color:#000
+    style J fill:#FFA500,stroke:#FFA500,color:#000
+    style K fill:#00D9FF,stroke:#00D9FF,color:#000
 ```
-
-**🟦 Completed** | **🟧 In Progress** | **⬛ Planned**
-
+🟦 Completed | 🟧 In Progress | ⬛ Planned
 </div>
-
 <br>
-
-### 🏆 Milestones Achieved
-
+🏆 Milestones Achieved
 <div align="center">
-
-| Achievement | Description | Year |
-|:---:|:---|:---:|
-| 🎓 **Admitted to UGM**   | Computer Science Program   | 2025 |
-| 🏆 **Data Royale**       | OmahTI Kaggle Competition  | 2025 |
-| 🎮 **Kubik Competition** | C++ Game Development       | 2025 |
-| 🤖 **First ML Model**    | Mushroom Classification    | 2025 |
-
+AchievementDescriptionYear🎓 Admitted to UGMComputer Science Program2025🏠 Airbnb PredictionOmahTI Regression Competition2025🍽️ Smart Menu APIGDGOC Backend Development2025🍄 Data RoyaleOmahTI Kaggle Competition2025🎮 Kubik CompetitionC++ Game Development2025🤖 First ML ModelMushroom Classification2025
 </div>
-
 <br>
-
-### 🎯 2025 Goals
-
+🎯 2025 Goals
 <table align="center">
 <tr>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="80px"/><br>
-<b>📚 Master ML Basics</b><br>
+<b>📚 Master ML & Backend</b><br>
 Complete fundamentals<br>
-Build 5+ projects
+Build 10+ projects
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="80px"/><br>
-<b>🏆 Kaggle Expert</b><br>
-Join 10+ competitions<br>
-Improve ranking
+<b>🏆 Compete & Excel</b><br>
+Join more competitions<br>
+Improve technical skills
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80px"/><br>
@@ -314,21 +306,14 @@ Help community
 </td>
 </tr>
 </table>
-
 <br>
 
----
-
 <br>
-
-## 🌐 Connect With Me
-
+🌐 Connect With Me
 <div align="center">
-
-### 💬 Let's Connect and Collaborate!
-
+💬 Let's Connect and Collaborate!
 <p>
-<a href="kentarotarochan@gmail.com">
+<a href="mailto:kentarotarochan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/aulia-kemal-syah-454942369/">
@@ -341,30 +326,18 @@ Help community
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 </p>
-
 <br>
-
-### 🤝 Open for Collaboration On:
-
-**📊 Data Science Projects** | **🤖 Machine Learning** | **🧮 Math Problems** | **💻 Open Source**
-
+🤝 Open for Collaboration On:
+📊 Data Science Projects | 🤖 Machine Learning | 🔧 Backend APIs | 🧮 Math Problems | 💻 Open Source
 <br>
-
-💡 *Feel free to reach out for discussions, collaborations, or just to say hi!*
-
+💡 Feel free to reach out for discussions, collaborations, or just to say hi!
 </div>
-
 <br>
 
----
-
 <br>
-
-## 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
-
-### 🐍 My GitHub Contribution Snake
+🐍 My GitHub Contribution Snake
 <picture>
   <source 
     media="(prefers-color-scheme: dark)"
@@ -376,27 +349,14 @@ Help community
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/kentarotaro/kentarotaro/output/github-contribution-grid-snake.svg" />
 </picture>
-
-### 💭 Random Dev Quote
-
+💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
-
 </div>
-
 <br>
 
----
-
 <br>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
-
 <br>
-
-### 🌟 Always Learning, Always Growing 🌱
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-
-</div>
+🌟 Always Learning, Always Growing 🌱
+<img src="https://media.giphy.com/me
