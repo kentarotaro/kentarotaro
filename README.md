@@ -343,17 +343,22 @@ graph LR
     style J fill:#FFA500,stroke:#FFA500,color:#000
     style K fill:#00D9FF,stroke:#00D9FF,color:#000
 ```
+<br>
+
 ---
+
+<br>
+
 🟦 Completed | 🟧 In Progress | ⬛ Planned
 </div>
 <br>
----
+
 🏆 Milestones Achieved
 <div align="center">
 AchievementDescriptionYear🎓 Admitted to UGMComputer Science Program2025🏠 Airbnb PredictionOmahTI Regression Competition2025🍽️ Smart Menu APIGDGOC Backend Development2025🍄 Data RoyaleOmahTI Kaggle Competition2025🎮 Kubik CompetitionC++ Game Development2025🤖 First ML ModelMushroom Classification2025
 </div>
 <br>
----
+
 🎯 2025 Goals
 <table align="center">
 <tr>
@@ -383,7 +388,11 @@ Help community
 <br>
 
 <br>
+
 ---
+
+<br>
+
 🌐 Connect With Me
 <div align="center">
 💬 Let's Connect and Collaborate!
