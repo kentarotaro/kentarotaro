@@ -460,8 +460,8 @@ Help community
 ---
 
 <br>
-
-## 💭 Random Dev Quote
+<br>
+💭 Random Dev Quote
 <br>
 <br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
