@@ -411,7 +411,7 @@ Help community
 
 <br>
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 <div align="center">
 💬 Let's Connect and Collaborate!
 <p>
@@ -440,7 +440,8 @@ Help community
 
 <br>
 <div align="center">
-🐍 My GitHub Contribution Snake
+  
+## 🐍 My GitHub Contribution Snake
 <picture>
   <source 
     media="(prefers-color-scheme: dark)"
@@ -459,14 +460,15 @@ Help community
 ---
 
 <br>
-💭 Random Dev Quote
+
+## 💭 Random Dev Quote
 <br>
 <br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
 </div>
 <br>
-<br>
-🌟 Always Learning, Always Growing 🌱
+
+## 🌟 Always Learning, Always Growing 🌱
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
