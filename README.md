@@ -72,8 +72,7 @@ me.say_hi()
 <td width="400">
 <img alt="Coding Animation" width="400" src="https://ani-github.github.io/animegifs/haruhi/letsgo.gif">
 </td>
-<td>
-  
+<td><br>
 ### 🎯 What I'm Currently Up To
 
 - 📚 **Learning:** Machine Learning fundamentals & Backend Development with Node.js
