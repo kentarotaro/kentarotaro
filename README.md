@@ -190,7 +190,7 @@ My first ML project! Built a classification model to predict poisonous vs edible
 ### 🎲 Ludo Game CLI
 
 <a href="https://github.com/kentarotaro/ludo-game-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kentarotaro&repo=ludo-game-cli&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kentarotaro&repo=kubik-ludo-cpp&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
 </a>
 
 <br>
