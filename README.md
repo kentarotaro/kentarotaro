@@ -464,12 +464,12 @@ Help community
 <br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px"/>
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
 <br>
 <br>
 🌟 Always Learning, Always Growing 🌱
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
+
