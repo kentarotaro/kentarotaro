@@ -289,7 +289,9 @@ A fully functional multiplayer Ludo game built with pure C++. Strengthened my OO
 <br>
 
 <p align="center"><i>💡 Always learning and improving every day!</i></p>
-
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 <br>
 
 ---
