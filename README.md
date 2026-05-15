@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=280&section=header&text=%20Hi%20There!%20I'm%20Aulia%20Kemal%20Syah%20&
-fontSize=50&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Data%20Science%20Enthusiast%20|%20Math%20Lover&descAlign=50&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=280&section=header&text=%20Hi%20There!%20I'm%20Aulia%20Kemal%20Syah%20👋&fontSize=50&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Data%20Science%20Enthusiast%20|%20Math%20Lover&descAlign=50&descAlignY=55&animation=fadeIn"/>
 
 </div>
 
@@ -474,5 +473,4 @@ Help community
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,14,17,24,27&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlign=50&fontAlignY=70&desc=⭐%20Feel%20free%20to%20star%20my%20repositories%20if%20you%20find%20them%20interesting!&descAlign=50&descAlignY=90&animation=twinkling"/>
